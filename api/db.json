@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "【最新项目】客户欲收购上海上市壳公司",
+      "content": "现有一位在金融服务、健康管理、社会服务领域的中国潜在投资者，拟购买一家在美国上市的公司的壳资源，所需壳资源不限定于上述领域。此投资者已有一家NASDAQ的上市公司。",
+      "tab": "newest"
+    },
+    {
+      "id": "4",
+      "title": "【最新项目】客户欲收购上海上市壳公司",
+      "content": "现有一位在金融服务、健康管理、社会服务领域的中国潜在投资者，拟购买一家在美国上市的公司的壳资源，所需壳资源不限定于上述领域。此投资者已有一家NASDAQ的上市公司。",
+      "tab": "newest"
+    },
+    {
+      "id": "2",
+      "title": "【推荐项目】客户欲收购上海上市壳公司",
+      "content": "frontend 有时候，进入某个路由后，需要从服务器获取数据。例如，在渲染用户信息时，你需要从服务器获取用户的数据。我们可以通过两种方式来实现",
+      "tab": "recommend"
+    },
+    {
+      "id": "3",
+      "title": "【最热项目】客户欲收购上海上市壳公司",
+      "content": "backend 有时候，进入某个路由后，需要从服务器获取数据。例如，在渲染用户信息时，你需要从服务器获取用户的数据。我们可以通过两种方式来实现",
+      "tab": "hottest"
+    }
+  ],
+  "comments": [
+    {
+      "txt": "交付周期越来越短，一份十万字的材料可能今天完成不了了！",
+      "postId": "2",
+      "id": "~fl0dzR"
+    },
+    {
+      "txt": "交付周期越来越短，一份十万字的材料可能今天完成不了了！",
+      "postId": "2",
+      "id": "SzRPinM"
+    },
+    {
+      "txt": "交付周期越来越短，一份十万字的材料可能今天完成不了了！",
+      "postId": "1",
+      "id": "0U2wAKt"
+    }
+  ],
+  "vips": [
+    {
+      "id": "12321312313",
+      "viptitle": "北京XX科技有限公司",
+      "industry": "法律",
+      "region": "北京",
+      "field": "房地产交易、不良资产、破产重组"
+    },
+    {
+      "id": "1232dfdfds1312313",
+      "viptitle": "北京XX科技有限公司",
+      "industry": "法律",
+      "region": "北京",
+      "field": "房地产交易、不良资产、破产重组"
+    },
+    {
+      "id": "1232sdf1312313",
+      "viptitle": "北京XX科技有限公司",
+      "industry": "法律",
+      "region": "北京",
+      "field": "房地产交易、不良资产、破产重组"
+    }
+  ],
+  "news": [
+    {
+      "id": "kkgslfjlsf",
+      "newstitle": "金杜国际中心重大交易",
+      "newspic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1551948222104&di=5066d941a08427e8a36be719f1e492e5&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fb2de9c82d158ccbff2d4801412d8bc3eb13541b7.jpg",
+      "newscontent": "金杜助煤澳洲香港联交所上市，实现资本市场华丽三级跳"
+    },
+    {
+      "id": "kkgsssslfjlsf",
+      "newstitle": "金杜国际中心重大交易",
+      "newspic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1551948222104&di=5066d941a08427e8a36be719f1e492e5&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fb2de9c82d158ccbff2d4801412d8bc3eb13541b7.jpg",
+      "newscontent": "金杜助煤澳洲香港联交所上市，实现资本市场华丽三级跳"
+    },
+    {
+      "id": "kkgsfffflfjlsf",
+      "newstitle": "金杜国际中心重大交易",
+      "newspic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1551948222104&di=5066d941a08427e8a36be719f1e492e5&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fb2de9c82d158ccbff2d4801412d8bc3eb13541b7.jpg",
+      "newscontent": "金杜助煤澳洲香港联交所上市，实现资本市场华丽三级跳"
+    }
+  ]
+}
